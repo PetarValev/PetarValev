@@ -10,7 +10,8 @@
 - 📚 I'm currently learning Python
 - 🔭 Looking to collaborate on beginners-intermediate Python projects
 - ⚡ Also possess expertise in 🌐 computer networking and 🖥️ system administration
-
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petarvalev&label=Profile%20views&color=0e75b6&style=flat" alt="petarvalev" /> </p>
 
 
 
