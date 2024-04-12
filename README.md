@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **petrvlev51@gmail.com**
 - 📚 I'm currently learning Python
-- 🔭 I’m looking to collaborate on beginners-intermediate Python projects
+- 🔭 Looking to collaborate on beginners-intermediate Python projects
+- ⚡ Also possess expertise in 🌐 computer networking and 🖥️ system administration
 
 
 <h3 align="left">Languages and Tools:</h3>
