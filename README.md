@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petarvalev" alt="petarvalev" /></a> </p>
 
 - 📫 How to reach me **petrvlev51@gmail.com**
+- 📚 I'm currently learning Python
+- 🔭 I’m looking to collaborate on beginners-intermediate Python projects
 
 
 <h3 align="left">Languages and Tools:</h3>
