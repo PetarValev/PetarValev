@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petar</h1>
 <h3 align="center">👩‍💻  About Me:
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petarvalev&label=Profile%20views&color=0e75b6&style=flat" alt="petarvalev" /> </p>
   
   "I'm passionate about 🖥️ back-end development, 📊 data science and machine learning, 🤖 automation and AI, as well as 🔒 cybersecurity and ethical hacking. 🛡️"</h3>
 
@@ -10,8 +10,7 @@
 - 📚 I'm currently learning Python
 - 🔭 Looking to collaborate on beginners-intermediate Python projects
 - ⚡ Also possess expertise in 🌐 computer networking and 🖥️ system administration
-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petarvalev&label=Profile%20views&color=0e75b6&style=flat" alt="petarvalev" /> </p>
+  
 
 
 
