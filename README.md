@@ -3,7 +3,7 @@
 <h3 align="center">👩‍💻  About Me:
 
   
-  "I'm passionate about 🖥️ back-end development, 📊 data science and machine learning, 🤖 automation and AI, as well as 🔒 cybersecurity and ethical hacking. 🛡️"</h3>
+  "I'm passionate about 🖥️ back-end development, as well as 🔒 cybersecurity and ethical hacking. 🛡️"</h3>
 
 
 
