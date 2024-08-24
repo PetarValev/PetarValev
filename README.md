@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" width="40" height="40">
-<img src="[https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg](https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg)" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" width="40" height="40">
 
 <h3 align="left">🔥   My Stats :</h3>
 
