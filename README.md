@@ -11,7 +11,7 @@ ___
 - 📚 I'm currently learning **Python**
 - ⚡ Also possess expertise in 🌐 **computer networking** and 🖥️ **system administration** 
 
-
+___
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +30,8 @@ ___
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a>
+
+___
 
 <h3 align="left">🔥   My Stats :</h3>
 
