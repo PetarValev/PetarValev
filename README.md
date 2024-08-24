@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Petar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petarvalev&label=Profile%20views&color=0e75b6&style=flat" alt="petarvalev" /> </p>
 <h3 align="center">👩‍💻  About Me:
-
+___
   
   "I'm passionate about 🖥️ back-end development, as well as 🔒 cybersecurity and ethical hacking. 🛡️"</h3>
-
+___
 
 
 - 📫 How to reach me **petrvlev51@gmail.com**
