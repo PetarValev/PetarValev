@@ -18,6 +18,8 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
@@ -28,7 +30,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="40" height="40"/> </a>
 
 <h3 align="left">🔥   My Stats :</h3>
 
