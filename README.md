@@ -38,7 +38,7 @@ ___
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Petar Valev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PetarValev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
