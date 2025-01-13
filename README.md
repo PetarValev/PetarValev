@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Petar</h1>
 
 <h3 align="center">👩‍💻  About Me:<br><br>
+  
   "Interested in IT infrastructure, cybersecurity, and backend development with a focus on scripting and automation."</h3>
+  
 ___
 
 
