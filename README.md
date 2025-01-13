@@ -38,8 +38,8 @@ ___
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetarValev&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarValev&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=PetarValev&show_icons=true&theme=radical"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarValev&layout=compact&theme=radical">
 
 <!--   <img src="https://streak-stats.demolab.com?user=PetarValev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> -->
 </div>
