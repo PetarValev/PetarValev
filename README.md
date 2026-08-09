@@ -8,8 +8,6 @@ ___
 
 
 - 📫 How to reach me **petrvlev51@gmail.com**
-- 📚 I'm currently learning **Python**
-- ⚡ Also possess expertise in 🌐 **computer networking** and 🖥️ **system administration** 
 
 ___
 
